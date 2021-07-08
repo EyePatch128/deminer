@@ -1,0 +1,57 @@
+﻿/* grid styles */
+#div0 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    box-shadow: 1px 1px 1px #000;
+    vertical-align: top;
+}
+
+.bomb {
+    font-size: 1em;
+    font-weight: 900;
+    color: transparent;
+}
+
+.num {
+    font-size: 1.15em;
+    font-weight: 900;
+    color: transparent;
+}
+
+.num1 {
+    color: red;
+}
+
+.num2 {
+    color: green;
+}
+
+.num3 {
+    color: blue;
+}
+
+.num4 {
+    color: purple;
+}
+
+.num5 {
+    color: yellow;
+}
+
+
+.icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 40px;
+    width: 40px;
+}
